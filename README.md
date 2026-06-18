@@ -25,9 +25,8 @@
 **Infra & Tooling:** API Gateway (WSO2) · Grafana · Datadog · Microsserviços · OCI
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=AlexandreBruno&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=AlexandreBruno&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreBruno&layout=compact&theme=tokyonight)
-
 ### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrebrunodemendonca/)
 [![Site](https://img.shields.io/badge/ABM%20Software-111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abmsoftware.com.br)
